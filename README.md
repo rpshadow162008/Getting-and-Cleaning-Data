@@ -1,6 +1,5 @@
 # Getting-and-Cleaning-Data
 Repo as a course assignment in Johns Hopkins University  Getting and Cleaning Data R programming course.
-## Getting and Cleaning Data Project
 
 Clyde Alino
 
@@ -12,7 +11,7 @@ A full description of the data used in this project can be found at [The UCI Mac
 
 [The source data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-### Project Summary
+### Summary
 The following is a summary description of the project instructions
 
 You should create one R script called run_analysis.R that does the following. 

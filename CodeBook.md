@@ -1,6 +1,6 @@
-## Getting and Cleaning Data Project
+## Getting and Cleaning Data
 
-Heather Wade
+Clyde Alino
 
 ### Description
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.

@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-by Roel M. Gevana
+by Roel M. Gevana.
 Repository for the course project in JHU-Coursera Getting and Cleaning Data module.
 
 ### Overview
